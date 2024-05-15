@@ -10,6 +10,7 @@ This project implements a simple calculator using an Arduino, a 4x4 keypad, and 
 - 4x4 membrane keypad
 - 16x2 LCD display with I2C interface
 - Breadboard and jumper wires
+- Lightbulb
 
 ## Libraries
 - **LiquidCrystal_I2C:** This library allows easy interfacing with the I2C backpack for LCD displays.
