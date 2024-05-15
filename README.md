@@ -1,6 +1,6 @@
 # Arduino Calculator with Keypad and LCD Display
 ## Live Preview: [Tinkercad simulation](https://www.tinkercad.com/things/cg71L9BXYzw-calculator?sharecode=8GIsgzeH8243MdvWXv1_LWUI52EgQwZqfvHf4XdYYgo)
-![Screenshot 2024-05-03 173354](https://github.com/JuliaMaxx/arduino_calculator/assets/121096183/122d29d1-e9d0-4128-b505-b04633ac99f9)
+![Calculator (2)](https://github.com/JuliaMaxx/arduino_calculator/assets/121096183/38378620-4c5c-4565-b552-e8add041b9fb)
 
 ## Overview
 This project implements a simple calculator using an Arduino, a 4x4 keypad, and a 16x2 LCD display. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
