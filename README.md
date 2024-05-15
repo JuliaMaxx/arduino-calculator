@@ -1,5 +1,5 @@
 # Arduino Calculator with Keypad and LCD Display
-## Live Preview: https://www.tinkercad.com/things/cg71L9BXYzw-calculator?sharecode=8GIsgzeH8243MdvWXv1_LWUI52EgQwZqfvHf4XdYYgohttps://www.tinkercad.com/things/cg71L9BXYzw-calculator?sharecode=8GIsgzeH8243MdvWXv1_LWUI52EgQwZqfvHf4XdYYgo
+## Live Preview: https://www.tinkercad.com/things/cg71L9BXYzw-calculator?sharecode=8GIsgzeH8243MdvWXv1_LWUI52EgQwZqfvHf4XdYYgo
 ![Screenshot 2024-05-03 173354](https://github.com/JuliaMaxx/arduino_calculator/assets/121096183/122d29d1-e9d0-4128-b505-b04633ac99f9)
 
 ## Overview
