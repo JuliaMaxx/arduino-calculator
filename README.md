@@ -6,7 +6,7 @@
 This project implements a simple calculator using an Arduino, a 4x4 keypad, and a 16x2 LCD display. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Components Used
-- Arduino board (e.g., Arduino Uno)
+- Arduino Uno
 - 4x4 membrane keypad
 - 16x2 LCD display with I2C interface
 - Breadboard and jumper wires
